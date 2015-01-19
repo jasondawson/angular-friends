@@ -71,6 +71,7 @@ ul{
 .status {
 	margin-top:12px;
 	clear: both;
+	min-height: 10px;
 }
 .num-friends {
 	color: #3b5998;
